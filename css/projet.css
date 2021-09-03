@@ -1,0 +1,65 @@
+body {
+  display: flex;
+}
+/*******div title*************/
+.title {
+  background-color: #696969;
+}
+/************section projet*********/
+main {
+  width: 100%;
+  background-color: #ff7f50;
+}
+.section {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  width: 100%;
+  margin-top: 109px;
+}
+article {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: 1px black solid;
+  margin: 60px;
+  width: 30%;
+  background-color: #696969;
+}
+a {
+  text-decoration: none;
+  color: #ff7f50;
+}
+img {
+  width: 100%;
+  height: 250px;
+  object-fit: revert;
+}
+.fa-github {
+  color: #ff7f50;
+}
+
+/*************polices*************/
+h1 {
+  text-align: center;
+  font-size: 2.8rem;
+  color: #fff;
+  margin-top: 0px;
+}
+h2 {
+  width: 100%;
+  text-align: center;
+  font-size: 1.5rem;
+  color: #000;
+}
+h3 {
+  font-size: 1.8rem;
+  text-align: center;
+  padding: 25px;
+  color: #fff;
+  text-decoration: none;
+}
+.footerLink {
+  background-color: #444;
+  margin-bottom: -28px;
+}

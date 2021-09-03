@@ -1,0 +1,17 @@
+body {
+  background-image: url("images/background_portfolio.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+main {
+  margin-top: 167px;
+  text-align: center;
+  color: white;
+  font-size: 2.5rem;
+  padding-left: 1%;
+}
+footer {
+  background-color: #444;
+}
