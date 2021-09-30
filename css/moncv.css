@@ -1,0 +1,30 @@
+/*************body &main************/
+body {
+  background-color: #3f51b578;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+}
+
+main {
+  text-align: justify;
+  color: #000;
+  font-size: 2.5rem;
+  padding-left: 1%;
+}
+
+/************liste non ordonnée*********/
+li {
+  list-style-type: none;
+  font-size: 1.4rem;
+}
+h1 {
+  text-align: center;
+}
+/************police****************/
+h2 {
+  margin-left: 37px;
+}
+p {
+  margin: 0px 10px;
+}
